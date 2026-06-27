@@ -6,7 +6,7 @@ const getPromise = () => {
     });
 };
 
-const promise = getPromise();
+let promise = getPromise();
 promise.then(() => {
   console.log("promise fullfilled");
 });
