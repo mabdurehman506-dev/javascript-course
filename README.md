@@ -12,3 +12,5 @@ closure hoisting
 classes object
 
 callback callbackHell
+
+promise
