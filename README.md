@@ -14,3 +14,7 @@ classes object
 callback callbackHell
 
 promise
+
+async await
+
+fetch API
